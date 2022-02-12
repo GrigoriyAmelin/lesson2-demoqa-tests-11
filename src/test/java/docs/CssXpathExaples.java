@@ -23,7 +23,6 @@ public class CssXpathExaples {
         $(".inputtest.email_1");
         $("input.inputtest.email_1");
         $("//input[@class='email_1']");
-        $("//input[@class='email_2']");
 
         // <div class="inputtext">
         //      <input type="email" class="login_form_input_box">
